@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ab.testLayer.SearchFlightTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.372 s - in com.ab.testLayer.SearchFlightTest
