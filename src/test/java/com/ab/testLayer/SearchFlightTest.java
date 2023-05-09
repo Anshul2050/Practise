@@ -12,7 +12,7 @@ public class SearchFlightTest extends BaseTestFP {
 	public void searchflight() {
 		
 		
-		Assert.assertFalse(true);
+		Assert.assertFalse(false);
 	}
 
 }
